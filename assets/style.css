@@ -36,6 +36,11 @@ body {
 .social-link img {
   width: 20px;
 }
+
+#header figure {
+  margin: 0;
+}
+
 #about {
   display: flex;
   background-color: #f6d2b8;
